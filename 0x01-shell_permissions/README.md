@@ -7,3 +7,5 @@
 **Task 2** = Prints all the groups the current user is part of.
 
 **Task 3** = Changes the owner of the file hello to the user betty.
+
+**Task 4** = Creates an empty file
