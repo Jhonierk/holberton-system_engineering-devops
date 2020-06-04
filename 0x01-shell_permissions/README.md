@@ -19,3 +19,5 @@
 **Task 8** = Set permissions for the hello file so that the owner and group don't have any permissions and other users have all permissions.
 
 **Task 9** = Sets permissions so owner has all permissions, group has read and execute permissions and others have write and execute permissions.
+
+**Task 10** = Copies the mode of file olleh to file hello
