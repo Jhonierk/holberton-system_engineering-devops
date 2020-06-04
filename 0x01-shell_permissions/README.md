@@ -3,3 +3,5 @@
 **Task 0** = The "su" command is used to convert to another user, and access your session without the need to log out of your current session.
 
 **Task 1** = Prints the effective userid of the current user.
+
+**Task 2** = Prints all the groups the current user is part of.
