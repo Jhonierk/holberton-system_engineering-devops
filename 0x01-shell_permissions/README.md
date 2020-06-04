@@ -15,3 +15,5 @@
 **Taks 6** = Add execute permission to the owner and the group owner, and read permission to other users, to the file hello.
 
 **Task 7** = Add execution permission to the owner, the group owner and the other users
+
+**Task 8** = Set permissions for the hello file so that the owner and group don't have any permissions and other users have all permissions.
