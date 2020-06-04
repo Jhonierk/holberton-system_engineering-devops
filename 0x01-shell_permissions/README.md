@@ -9,3 +9,5 @@
 **Task 3** = Changes the owner of the file hello to the user betty.
 
 **Task 4** = Creates an empty file
+
+**Task 5** = Add execute permission to the owner of the file hello.
