@@ -13,3 +13,5 @@
 **Task 5** = Add execute permission to the owner of the file hello.
 
 **Taks 6** = Add execute permission to the owner and the group owner, and read permission to other users, to the file hello.
+
+**Task 7** = Add execution permission to the owner, the group owner and the other users
