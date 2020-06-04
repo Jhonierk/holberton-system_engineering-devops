@@ -1,0 +1,1 @@
+# Hi everyone, this commands permissions in **Shell¨¨
