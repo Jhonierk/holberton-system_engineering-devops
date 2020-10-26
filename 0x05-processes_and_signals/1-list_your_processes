@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+#This script shows a list of all processes that are currently running to the user.
+ps xafu
