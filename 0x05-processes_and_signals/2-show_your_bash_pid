@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+#Using the previous exercise, display lines containing the word "bash"
+#It is also done in the following way: ps xafu | grep "bash"
+./1-list_your_processes | grep bash
